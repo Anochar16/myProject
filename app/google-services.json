@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "599663898328",
+    "project_id": "everygym-57ad1",
+    "storage_bucket": "everygym-57ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599663898328:android:6e3c69e6d90dae00eb71ad",
+        "android_client_info": {
+          "package_name": "com.example.every_gym.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599663898328-21gmabjo2s4vbjkh63rarmgm0krimmos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.every_gym.host",
+            "certificate_hash": "0f9ddfa3c5a8c5a58f6f1085405f749d6ed290cb"
+          }
+        },
+        {
+          "client_id": "599663898328-tiogspslmnk6ligo2lcujdt3knakjbu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GUDfCRDkPeYSdI48EJIB6ccY0XVdk0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599663898328-m9c256o07e47lis2clk64ei1ifvlmqff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599663898328-09h0j46l2b4mjskcrb5u0s68efd3eifm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.everygym"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599663898328:android:c0880769bbff11f5eb71ad",
+        "android_client_info": {
+          "package_name": "com.mycompany.everygym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599663898328-56e47chd3mq1e8f44ug3eavq8f29jrfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.everygym",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "599663898328-tiogspslmnk6ligo2lcujdt3knakjbu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GUDfCRDkPeYSdI48EJIB6ccY0XVdk0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599663898328-m9c256o07e47lis2clk64ei1ifvlmqff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599663898328-09h0j46l2b4mjskcrb5u0s68efd3eifm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.everygym"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
